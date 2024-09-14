@@ -1,4 +1,4 @@
-﻿﻿decimal valorCompra, valorPago, valorTroco;
+﻿decimal valorCompra, valorPago, valorTroco;
 
 Console.WriteLine("--- Troco ---\n");
 
